@@ -22,7 +22,6 @@ public class KartenSortieren {
 
     public static void main(String[] args){
         KartenSortieren kartens = new KartenSortieren();
-
     }
 
     private void sortieren(){
